@@ -12,4 +12,4 @@ Out of the box, the Adobe I/O Developer Console does not show the creator of eac
 * You should see the Project cards rendered as usual but each now has a "Created By:" label with a link to an Adobe ID.
 * Click on the link to get more information about the creator.
 ### Notes
-This feature does not work for Projects that were crated via API or third party tools.  They will show `Created By: System`.  It also will not be able to pull information for Adobe accounts that have been removed from the organization.
+This tool does not appear to work in all cases.  Some Projects will show `Created By: System`.  I'm not sure yet exactly why this is but seems to have something to do with the older created/modified projects.  It also will not be able to pull information for Adobe accounts that have been removed from the organization.
