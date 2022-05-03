@@ -1,7 +1,7 @@
 ## Adobe I/O Extra Info Extension
 Out of the box, the Adobe I/O Developer Console does not show the creator of each Project.  This Chrome extension updates each Project card and adds this information with a link to the creator's profile information.
 ### Installation
-* Clone this project somewhere on your machine.
+* Clone this project somewhere on your machine. (Alternatively you can click the green `Code` dropdown and choose `Download ZIP` but make sure to unzip the downloaded file)
 * Open a Chrome browser window.
 * Navigate to Window -> Extensions or type `chrome:extensions` in the URL field.
 * Make sure `Developer mode` is switched On in the upper right.
